@@ -1,0 +1,9 @@
+C:\Users\kerle\source\repos\Panda Downloader\Panda Downloader\bin\Debug\Panda Downloader.exe.config
+C:\Users\kerle\source\repos\Panda Downloader\Panda Downloader\bin\Debug\Panda Downloader.exe
+C:\Users\kerle\source\repos\Panda Downloader\Panda Downloader\bin\Debug\Panda Downloader.pdb
+C:\Users\kerle\source\repos\Panda Downloader\Panda Downloader\obj\Debug\Panda_Downloader.Form1.resources
+C:\Users\kerle\source\repos\Panda Downloader\Panda Downloader\obj\Debug\Panda_Downloader.Properties.Resources.resources
+C:\Users\kerle\source\repos\Panda Downloader\Panda Downloader\obj\Debug\Panda Downloader.csproj.GenerateResource.cache
+C:\Users\kerle\source\repos\Panda Downloader\Panda Downloader\obj\Debug\Panda Downloader.csproj.CoreCompileInputs.cache
+C:\Users\kerle\source\repos\Panda Downloader\Panda Downloader\obj\Debug\Panda Downloader.exe
+C:\Users\kerle\source\repos\Panda Downloader\Panda Downloader\obj\Debug\Panda Downloader.pdb

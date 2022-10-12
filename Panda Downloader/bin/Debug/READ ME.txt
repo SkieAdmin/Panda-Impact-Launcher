@@ -1,0 +1,10 @@
+Thank you for choosing Panda Impact Loader
+-------------------------------------------------------------------------
+This Application is a Modded Launcher for Genshin Impact that allows you to manage
+FPS Unlock and Customized with Plenty of Shaders.
+---------------------------------------------------------------------------
+
+TO ADD SHADERS
+1. Locate the Path of Panda Impact Launcher
+2. Extract a preset to your Genshade folder. The .ini file and the reshade-shader folder should be in the same location as Panda Impact Launcher
+3. Launch the Modded Launcher!
